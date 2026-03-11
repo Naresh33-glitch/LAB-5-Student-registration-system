@@ -1,4 +1,6 @@
 # LAB-5-Student-registration-system
+## NAME : NARESH S
+## REG NO: 212224240101
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
 implement the software in Java.
